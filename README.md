@@ -1,6 +1,7 @@
 # flutter_application_udemy
 
-A new Flutter project.
+Simple application "Dice". To create which the standard libraries Dart and Flutter are used.
+
 
 ## Getting Started
 
